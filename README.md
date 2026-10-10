@@ -16,4 +16,4 @@ This repository holds the builds themselves, under [Releases](../../releases):
 - Bugs and questions: [keelOS-releases Issues](https://github.com/keelos-dev/keelOS-releases/issues).
 
 kRDPclient is not open source and is free to use, under the same terms as keelOS
-(https://keelos.dev/about/). It includes IronRDP (MIT) and libvpx (BSD); see https://keelos.dev/about/ for the licences.
+(https://keelos.dev/about/). It includes IronRDP (MIT/Apache-2.0) and libvpx (BSD).
